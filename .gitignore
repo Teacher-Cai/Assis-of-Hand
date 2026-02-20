@@ -3,3 +3,5 @@
 /__pycache__
 /venv
 assist_of_hand.config
+main.spec
+/.idea
